@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="my_food_app">My Food App</string>
+    <string name="register">Register</string>
+    <string name="sign_in">sign in</string>
+    <string name="hello_share_your_recipess">Hello!!! Share Your Recipes.</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_inn">Sign In</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pham_hoang_an">Phạm Hoàng Ân</string>
+    <string name="cua2403_gmail_com">cua2403@gmail.com</string>
+    <string name="what_do_you_want">What do you want ?</string>
+    <string name="search_your_food">Search your Food...</string>
+    <string name="ph_m_ho_ng_n">Phạm Hoàng Ân</string>
+    <string name="b_nh_lu_n">Bình Luận</string>
+    <string name="b_nh_m_tr_ng_p_la_si_u_n_gi_n">Bánh mì trứng ốp la siêu đơn giản</string>
+    <string name="_128">128</string>
+    <string name="hello_n">Hello Ân</string>
+</resources>
